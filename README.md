@@ -16,6 +16,17 @@
    - Lubricant and other products inventory
    - Credit / Cash Customer Add
 
+## Product Sale/Return
+## HalKhata (হালখাতা)
+  - Receive Payment
+  - Due/Receivable
+  - All Transaction
+  - Bill List
+
+## Customers Data
+   - Customers
+   - Customer Statement
+
 ## Shift Report
    - Shift Start and Ending Report
    - Shift Closing + SMS to Manager
@@ -39,3 +50,19 @@
    - Monthly Income / Expense
    - Tank Summary
    - Year Income/Expense
+
+## Stock Loss/Gain (LTR) Report
+## Financial Statement
+## Fuel & Nozzel Setup
+  - Fuel Name Setups
+  - Tank Setup
+  - Nozzel Setup
+
+## Product Setup
+  - Product Group
+  - Category
+  - Brands
+  - Warehouse
+  - Add Products
+
+

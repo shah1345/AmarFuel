@@ -66,4 +66,52 @@
   - Add Products
 
 
+
+
+
+
+
+# Traditional vs. Self-Service Fuel Stations: A Comparison
+
+This document compares the performance of traditional fuel stations with self-service fuel stations before and after implementing an Advanced Fuel Management System.
+
+## Before Implementation:
+
+- **Financial Loss:** 
+  - Daily loss: 2500-5000 BDT
+  - Accounting discrepancies were common.
+- **Manpower:**
+  - Required 12 workers for operations.
+  - Needed 4 persons for accounting maintenance.
+- **Loss due to System Errors:**
+  - Daily system losses were substantial, ranging from 2500-5000 BDT.
+- **Human Error:**
+  - Human error-based losses occurred frequently.
+
+## After Implementation:
+
+- **Financial Loss:**
+  - Daily system losses reduced to 50-200 BDT.
+  - Accounting discrepancies minimized.
+- **Manpower:**
+  - Reduced workforce to 4 workers.
+  - Only 1 accountant required for accounting.
+- **Loss due to System Errors:**
+  - Significant reduction in system errors and losses.
+- **Human Error:**
+  - Human error-based losses reduced to zero.
+
+## Comparison Chart:
+
+| Metrics                          | Before Implementation | After Implementation |
+|----------------------------------|-----------------------|----------------------|
+| Daily Financial Loss (BDT)       | 2500-5000             | 50-200               |
+| Manpower (Workers/Accountant)    | 12 workers + 4 accountants | 4 workers + 1 accountant |
+| System Loss (BDT)                | 2500-5000             | 50-200               |
+| Human Error-Based Loss           | Frequent              | None                 |
+
+This chart visually represents the improvements made after implementing the Advanced Fuel Management System.
+
+
+
 https://www.amcharts.com/demos-v4/hybrid-drill-down-pie-bar-chart-v4/

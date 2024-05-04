@@ -93,6 +93,7 @@ This document compares the performance of traditional fuel stations with self-se
 - **Financial Loss:**
   - Daily system losses reduced to 50-200 BDT.
   - Accounting discrepancies minimized.
+  - Monthly savings increased by approximately 2 lak BDT.
 - **Manpower:**
   - Reduced workforce to 4 workers.
   - Only 1 accountant required for accounting.
@@ -106,11 +107,13 @@ This document compares the performance of traditional fuel stations with self-se
 | Metrics                          | Before Implementation | After Implementation |
 |----------------------------------|-----------------------|----------------------|
 | Daily Financial Loss (BDT)       | 2500-5000             | 50-200               |
+| Monthly Savings (BDT)            | N/A                   | Approx. 2,00,000     |
 | Manpower (Workers/Accountant)    | 12 workers + 4 accountants | 4 workers + 1 accountant |
 | System Loss (BDT)                | 2500-5000             | 50-200               |
 | Human Error-Based Loss           | Frequent              | None                 |
 
 This chart visually represents the improvements made after implementing the Advanced Fuel Management System.
+
 
 
 

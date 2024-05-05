@@ -122,4 +122,10 @@ https://www.amcharts.com/demos-v4/hybrid-drill-down-pie-bar-chart-v4/
 
 
 
+##Slide
 https://docs.google.com/presentation/d/1YfPBQ1BM6jgTaSAWLPMSyiP7uYYt_hYj/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true
+
+
+
+##OVERleaf
+https://www.overleaf.com/project/662e7b7ea1e6cc9854fe88dd

@@ -119,7 +119,7 @@ This chart visually represents the improvements made after implementing the Adva
 
 https://www.amcharts.com/demos-v4/hybrid-drill-down-pie-bar-chart-v4/
 
-
+"C:\Program Files\Google\Chrome\Application\chrome_proxy.exe" --profile-directory="Profile 1" --app-id=mkkkefomigangihclhoibcjnnimachnf --kiosk-printing --kiosk  "https://station.amarfuel.com/index.php"
 
 
 ##Slide

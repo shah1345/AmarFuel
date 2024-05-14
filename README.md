@@ -121,7 +121,7 @@ https://www.amcharts.com/demos-v4/hybrid-drill-down-pie-bar-chart-v4/
 
 "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe" --profile-directory="Profile 1" --app-id=mkkkefomigangihclhoibcjnnimachnf --kiosk-printing --kiosk  "https://station.amarfuel.com/index.php"
 
-
+"C:\Program Files\Google\Chrome\Application\chrome_proxy.exe" --profile-directory=Default --app-id=jmocpnfbehmchgfcejlmkdlofecbjnlg --kiosk-printing  "https://sheba.amarfuel.com/"
 ##Slide
 https://docs.google.com/presentation/d/1YfPBQ1BM6jgTaSAWLPMSyiP7uYYt_hYj/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true
 

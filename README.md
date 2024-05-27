@@ -138,3 +138,6 @@ https://docs.google.com/document/d/1egCSWvtwplExpkGmwpXgyp4tqvkzsxDqza1lMEX3PiM/
 
 
 https://drive.google.com/drive/folders/14MGHF-h1fcS55boEMZyQbT-wCmHEWzY-?usp=drive_link
+
+
+https://docs.google.com/document/d/1_lt2CX3_4PLZECAFaOZVFt8Msguqa2VO/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true

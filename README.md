@@ -141,3 +141,7 @@ https://drive.google.com/drive/folders/14MGHF-h1fcS55boEMZyQbT-wCmHEWzY-?usp=dri
 
 
 https://docs.google.com/document/d/1_lt2CX3_4PLZECAFaOZVFt8Msguqa2VO/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true
+
+
+
+LPG Auto GAS https://docs.google.com/document/d/1P4fcAajrHIaUF2HARmd7tczygBX9x3f9/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true

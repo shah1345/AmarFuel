@@ -157,3 +157,7 @@ LPG CHALAN https://docs.google.com/document/d/1tKlwgcbd4kIBflm1AQR6RJI2slnNmEYs/
 https://docs.google.com/document/d/1tKlwgcbd4kIBflm1AQR6RJI2slnNmEYs/edit?usp=sharing&ouid=104863105211500469992&rtpof=true&sd=true // Chalan
 
 
+
+SQA https://docs.google.com/presentation/d/14b5xLiPsGDiJwZp8rmkcKbr-W6QgpntvdmUh9ELJ3D4/edit?usp=sharing
+
+

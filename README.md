@@ -115,7 +115,10 @@ This document compares the performance of traditional fuel stations with self-se
 This chart visually represents the improvements made after implementing the Advanced Fuel Management System.
 
 
+###Monthly Package and Device Cost
+##Amar Fuel Monthly Pack
 
+https://docs.google.com/document/d/10nL-g1OIGDJcX4-sRxLYdO0tEFA_Ep5bDiRasG6D0Ys/edit?usp=sharing
 
 https://www.amcharts.com/demos-v4/hybrid-drill-down-pie-bar-chart-v4/
 
